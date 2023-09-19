@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peopleweavefa23/static/css/main.854d1f00.css",
+    "main.js": "/peopleweavefa23/static/js/main.931d75dc.js",
+    "static/js/787.fcd17a2a.chunk.js": "/peopleweavefa23/static/js/787.fcd17a2a.chunk.js",
+    "index.html": "/peopleweavefa23/index.html",
+    "main.854d1f00.css.map": "/peopleweavefa23/static/css/main.854d1f00.css.map",
+    "main.931d75dc.js.map": "/peopleweavefa23/static/js/main.931d75dc.js.map",
+    "787.fcd17a2a.chunk.js.map": "/peopleweavefa23/static/js/787.fcd17a2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854d1f00.css",
+    "static/js/main.931d75dc.js"
+  ]
+}
